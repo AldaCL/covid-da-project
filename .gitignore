@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Local data analytics assets
+*.csv
+*.json
+*.xlsx
 # Distribution / packaging
 .Python
 build/
